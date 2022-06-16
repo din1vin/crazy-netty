@@ -1,3 +1,0 @@
-this file is count for long words,
-you may see word plusThan12Words.
-standardCharset java constructor, let'sGoForAnRide
